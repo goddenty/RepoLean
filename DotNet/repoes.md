@@ -36,6 +36,37 @@ https://github.com/serilog/serilog.git
 ##### Repo clone:
 <b>https://github.com/PrismLibrary/Prism-Samples-Wpf</b>
 
+#### Captura
+##### Overview
+Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
+##### Github address
+<b>https://github.com/MathewSachin/Captura</b>
+<b>https://github.com/MathewSachin/Captura.git</b>
+
+#### MahApps
+##### Overview
+WPF UI Style library
+##### Github address
+<b>https://github.com/MahApps/MahApps.Metro</b>
+<b>https://github.com/MahApps/MahApps.Metro.git</b>
+
+#### MaterialDesignInXamlToolkit
+##### Overview
+Material Design styles for all major WPF Framework controls
+Additional controls to support the theme, including Multi Action Button, Cards, Dialogs, Clock
+Compatible with Dragablz, MahApps
+##### Github adress
+<b>https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
+<b>https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit.git</b>
+
+#### CefSharp
+##### Overview
+CefSharp lets you embed Chromium in .NET apps. 
+##### Github address
+<b>https://github.com/cefsharp/CefSharp</b>
+<b>https://github.com/cefsharp/CefSharp.git</b>
+
+
 ### Identity
 
 <b>https://github.com/IdentityServer/IdentityServer4</b>
