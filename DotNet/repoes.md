@@ -39,9 +39,24 @@ https://github.com/serilog/serilog.git
 #### Captura
 ##### Overview
 Capture Screen, WebCam, Audio, Cursor, Mouse Clicks and Keystrokes.
+##### Functions:
+Captura.Hotkeys: 封装了在Windows系统下注册热键的功能。
+Captura.FFmpeg： 封装了FFmppeg的下载和启动的功能。
+
 ##### Github address
 <b>https://github.com/MathewSachin/Captura</b>
 <b>https://github.com/MathewSachin/Captura.git</b>
+
+#### https://github.com/NickeManarin/ScreenToGif
+##### Overview
+ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+
+
+##### Github address
+<b>https://github.com/NickeManarin/ScreenToGif</b>
+<b>https://github.com/NickeManarin/ScreenToGif.git</b>
+
 
 #### MahApps
 ##### Overview
